@@ -31,3 +31,7 @@
 # fabric
 
 **run/
+
+# git
+
+**.gitignore

@@ -1,0 +1,7 @@
+name: GitSumBackups
+version: '${version}'
+main: net.nebulabc.gitsumbackups.GitSumBackups
+api-version: 1.19
+prefix: GitB
+authors: [ NebulaBC ]
+description: Backs up your precious world with git!
