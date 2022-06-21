@@ -9,9 +9,10 @@ Repos in `minecraft-modifications`:
 ```bash
 .
 ├── Autorestart
+├── GitSumBackups
 ├── SimpleJedisMGR
 ├── byebye
 └── readme.md
 
-3 directories, 1 file
+4 directories, 1 file
 ```
