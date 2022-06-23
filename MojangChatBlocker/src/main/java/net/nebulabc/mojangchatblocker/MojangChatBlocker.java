@@ -1,12 +1,13 @@
 package net.nebulabc.mojangchatblocker;
 
+import net.nebulabc.mojangchatblocker.events.SendMessageEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class MojangChatBlocker extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        getServer().getPluginManager().registerEvents(new SendMessageEvent(), this);
 
     }
 
