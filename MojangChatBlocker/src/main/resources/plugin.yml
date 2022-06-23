@@ -1,0 +1,8 @@
+name: MojangChatBlocker
+version: '${version}'
+main: net.nebulabc.mojangchatblocker.MojangChatBlocker
+api-version: 1.19
+prefix: MCB
+authors: [ NebulaBC ]
+description: Block vanilla chat in game, so people who are not using irc mod can not chat. Thus, Mojang can not monitor our messages.
+website: https://www.nebulabc.net/
